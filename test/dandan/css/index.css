@@ -1,0 +1,17 @@
+.garbage{
+    /* position: absolute; */
+    left: 0;
+    top: 0rem;
+    transition:  all .8s;
+    margin-top: 3rem;
+    z-index: 999 !important;
+}
+.truck{
+    z-index: 1000 !important;
+    position: relative;
+    margin-top: 10rem;
+    /* background: #000; */
+    height: 10rem;
+    padding: 0;
+    
+}
